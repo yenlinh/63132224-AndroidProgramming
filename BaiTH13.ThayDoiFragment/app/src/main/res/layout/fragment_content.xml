@@ -1,0 +1,24 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/frameLayout"
+    android:layout_width="match_parent"
+    android:layout_height="440dp"
+    android:background="#D52828"
+    tools:context=".ContentFragment">
+
+    <TextView
+        android:id="@+id/ContentFragment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="154dp"
+        android:layout_marginTop="225dp"
+        android:layout_marginEnd="155dp"
+        android:layout_marginBottom="181dp"
+        android:gravity="center"
+        android:text="TextView"
+        android:textColor="#F0E3E3"
+        android:textSize="25dp" />
+</FrameLayout>
