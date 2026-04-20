@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ThiGK2TranYenLinh">
         <activity
+            android:name=".ChucNang3"
+            android:exported="false" />
+        <activity
             android:name=".ChucNang2"
             android:exported="false" />
         <activity
